@@ -1,6 +1,6 @@
 # Exam Solver
 
-Herramienta ligera y de un solo click para resolver examenes usando **Google Gemini 2.0 Flash (Gratis)** o modelos compatibles, construida bajo la filosofía funcional y minimalista (código limpio, 0 emojis, puro texto claro).
+Herramienta ligera y de un solo click para resolver examenes usando **Google Gemini 2.0 Flash (Gratis)** o modelos compatibles, construida bajo la filosofía funcional y minimalista.
 
 ## Estructura
 
