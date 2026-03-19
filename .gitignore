@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+.env
+
+# Configuración y Secretos
+config.py
+.exam_solver_key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
