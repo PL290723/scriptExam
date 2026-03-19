@@ -48,9 +48,9 @@ client = None
 
 def get_api_key():
     """Obtiene la key desde config.py o env."""
-    if hasattr(config, "API_KEY") and config.API_KEY and config.API_KEY != "AIzaSyCV0j_nNpGG6nUTl6ndkozv_c1Itq8G6gg":
+    if hasattr(config, "API_KEY") and config.API_KEY and config.API_KEY != "API_KEY_AQUI":
         return config.API_KEY
-    return os.environ.get("GEMINI_API_KEY", "AIzaSyCV0j_nNpGG6nUTl6ndkozv_c1Itq8G6gg")
+    return os.environ.get("GEMINI_API_KEY", "")
 
 
 # --- Captura de pantalla via xdg-desktop-portal ---
